@@ -1,7 +1,7 @@
 var questions = [
     {
         "title": "Reactjs",
-        "question": "Given a dictionary with the property <code>property1</code> and value <code>value1</code>",
+        "question": "Given a dictionary with the ",
         "answer": {"labary": "UI Labary"}
     },
     {
